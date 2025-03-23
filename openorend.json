@@ -1,24 +1,296 @@
 {
-  "280924": {
-    "7 as 8": "End"
+  "260225": {
+    "4.2 as 6.3": "End",
+    "6.3 as 6.5": "End",
+    "6.5 as 7.2": "End",
+    "7.2 as 8.1": "End",
+    "8.2 as 9.1": "End",
+    "9.1 as 10": "End",
+    "10 as 12": "empty",
+    "12 as 13.3": "empty",
+    "13.3 as 15.3": "empty",
+    "15.3 as 17.3": "empty"
   },
-  "290924": {},
-  "300924": {},
-  "011024": {},
-  "051024": {},
-  "061024": {},
-  "121024": {
-    "": "empty",
-    "7 as 8": "open"
+  "270225": {
+    "4.5 as 6.3": "End",
+    "6.3 as 7": "End",
+    "7 as 8.1": "End",
+    "8.1 as 9.1": "End",
+    "9.1 as 10": "End",
+    "10.3 as 11  ": "End",
+    "11 as 12": "End",
+    "12 as 15.3": "End",
+    "15.3 as 17.3": "End",
+    "17.3 as 19": "End",
+    "19 as 20": "End"
   },
-  "131024": {
-    "7 as 8 ": "empty",
-    "8 as 9  ": "empty",
-    "9 as 12 ": "empty"
+  "280225": {
+    "2 as 5": "empty",
+    "4.3 as 5.3": "End",
+    "5.3 as  8": "End",
+    "8 as 9": "End",
+    "9 as 11.2": "End",
+    "11.3 as 11.45": "End",
+    "11.45 as 12.3": "End",
+    "12.3 as 14": "End",
+    "14 as 15": "open",
+    "15 as 17": "open",
+    "17 as 18.2": "open",
+    "18.2 as 20": "End"
   },
-  "141024": {},
-  "151024": {},
-  "171124": {},
-  "081224": {},
-  "151224": {}
+  "010325": {
+    "2 as 5": "open",
+    "5.3 as 9": "End",
+    "9 as 12": "End",
+    "12 as 16": "End",
+    "16 as 20": "End",
+    "2 as 5.3": "empty",
+    "5.3 as 12": "empty",
+    "12 as 20": "empty"
+  },
+  "020325": {
+    "3.5 as 5.2": "End",
+    "5.2 as 6.2": "End",
+    "6.2 as 12 ": "End",
+    "12 as 14": "empty",
+    "6.2 as 9": "End",
+    "9 as 12": "End",
+    "12 as 16": "open",
+    "16 as 20 ": "open"
+  },
+  "030325": {
+    "2 as 5 ": "empty",
+    "4..5 as 6": "empty",
+    "6 as 9": "End",
+    "4.5 as 6": "End",
+    "9 as  10 ": "End",
+    "10 as  11": "End",
+    "11 as  12": "End",
+    "12 as 2 ": "End",
+    "2 as 3 ": "End",
+    "15  as 17": "End",
+    "17 as 18": "End",
+    "18 as 20": "empty"
+  },
+  "040325": {
+    "2 as 5": "open",
+    "5 as 7": "open",
+    "7 as 10": "open",
+    "10 as 12": "End",
+    "12 as 2": "End",
+    "14 as 15": "open",
+    "15 as 20": "open"
+  },
+  "050325": {
+    "2 as 5.4": "open",
+    "5.4 as 10": "End",
+    "10 as 12": "empty",
+    "12 as 14": "empty",
+    "14 as 20": "empty"
+  },
+  "060325": {
+    "4.3 as 6": "End",
+    "7 as 9": "End",
+    "9 as 15": "End",
+    "15 as 16": "End",
+    "16 as  17": "End",
+    "17 as 18.3": "End",
+    "18.4 s 19": "End",
+    "19 as 20 ": "empty"
+  },
+  "070325": {
+    "2 as 5": "open",
+    "5 as 5.3": "empty",
+    "5.3 as 7": "empty",
+    "7 as 12": "empty",
+    "12 as 17": "empty",
+    "18 as 19": "empty",
+    "19 as 20": "empty",
+    "5 as 6": "End",
+    "6 as 7": "End",
+    "7.3 as 7.5": "End",
+    "8 as 9": "End",
+    "9 as 9.3": "End",
+    "9.3 as 12": "empty",
+    "12 as 13.3": "empty",
+    "13.3 as 15.3": "empty",
+    "15.3 as 17.3": "empty",
+    "17.4 as 19": "empty"
+  },
+  "080325": {
+    "2 as 5": "empty",
+    "4 as 20": "empty"
+  },
+  "090325": {
+    "2 as 6": "open",
+    "6 as 12": "End",
+    "12 as 20": "open"
+  },
+  "100325": {
+    "2 as 10": "open",
+    "10 as 20": "End"
+  },
+  "110325": {
+    "2 as 5": "End",
+    "5 as 5.4": "End",
+    "5.4 as 7": "End",
+    "7 as 12": "End",
+    "12 as 13.3": "End",
+    "13.3 as 17": "End",
+    "117 as 17.4 ": "empty",
+    "17.4 as 18 ": "empty",
+    "18 as 19 ": "empty",
+    "19 as 20 ": "empty",
+    "2 as 5 ": "empty",
+    "18 as 19": "empty"
+  },
+  "120325": {
+    "2 as 5": "open",
+    "5 as 5.4": "End",
+    "5.4 as 7": "End",
+    "7 as 9.3": "End",
+    "9.3 as 12.3": "empty",
+    "12.3 as 15.3": "empty",
+    "15.3 as 17": "empty",
+    "17 as 17.3": "empty",
+    "17.3 as 19": "empty",
+    "19 as 20": "empty"
+  },
+  "140325": {
+    "3.3 as 6": "End",
+    "6 as 8.3 ": "End",
+    "9 as 10": "End",
+    "10 as 11": "End",
+    "11 as 11.4": "End",
+    "12 as 13.3": "End",
+    "13.3 as 15.3": "End",
+    "15.3 as 17": "End",
+    "17.3 as 19": "End",
+    "19 as 20": "End",
+    "20 as 22": "End"
+  },
+  "150325": {
+    "2 as 5 ": "empty",
+    "2 as 5": "empty",
+    "3.3 as 6 ": "End",
+    "6 as 7": "End",
+    "7 as 12": "End",
+    "12 as 13": "End",
+    "13 as 22": "open"
+  },
+  "160325": {
+    "2 as 7": "End",
+    "7 as 10": "End",
+    "10 as 12": "open",
+    "12 as 16": "End",
+    "16 as 20": "empty"
+  },
+  "170325": {
+    "2 as 8": "open",
+    "8 as 12": "End",
+    "12 as 13": "End",
+    "13 as 20": "open"
+  },
+  "180325": {
+    "3 as 5": "End",
+    "5 as 5.4": "End",
+    "5.4 as 7": "End",
+    "7 as 9.3": "End",
+    "9.3 as 12.3": "End",
+    "12.3 as 13.3": "End",
+    "13.3 as 15.3": "End",
+    "15.3 as 17": "End",
+    "17 as 17.3": "End",
+    "17.3 as 19": "End"
+  },
+  "190325": {
+    "3 as 5": "empty",
+    "5 as 5.4": "empty",
+    "5.4 as 7": "empty",
+    "7 as 9.3": "empty",
+    "9.3 as 10.3": "empty",
+    "10.3 as 12.3": "empty",
+    "12.3 as 13.3": "empty",
+    "13.3 as 15.3": "empty",
+    "15.3 as 17": "empty",
+    "17 as 17.3": "empty",
+    "17.3 as 19": "empty",
+    "19 as 20 ": "empty"
+  },
+  "200325": {
+    "2 as 5": "End",
+    "10 as 19": "End"
+  },
+  "210325": {
+    "2 as 5": "open",
+    "5 as 5.4": "empty",
+    "5.4 as 7": "empty",
+    "7 as 9.3": "empty",
+    "9.3 as 12": "empty",
+    "12 as 15.3": "empty",
+    "15.3 as 17": "End",
+    "17 as 17.3": "End",
+    "17.3 as 19": "End",
+    "19 as 20": "empty",
+    "4 as 5": "End",
+    "5 as 6": "End",
+    "sd pbl": "empty",
+    "6 as 7": "End",
+    "7 as 9": "End",
+    "9 as 10": "End",
+    "10 as 12": "End",
+    "12 as 13.3": "End",
+    "13.3 as 15.3": "End"
+  },
+  "220325": {
+    "2 as 5.4": "empty",
+    "4 as 5": "End",
+    "5 as 5.4": "End",
+    "5.4 as  6.3": "End",
+    "7 as 8": "empty",
+    "7 as 9": "End",
+    "7 as 9.4": "End",
+    "9.4 as 10": "End",
+    "10 as 11": "End",
+    "11 as 12": "End",
+    "10 as 12": "empty",
+    "12 as 13": "End",
+    "13 as 16": "End",
+    "16 as 21": "empty"
+  },
+  "230325": {
+    "2 as 5.4": "open",
+    "5.4 as 8": "End",
+    "8 as 12": "End",
+    "12 as 13": "open",
+    "13  as 20": "empty"
+  },
+  "240325": {
+    "2 as 5.4": "empty",
+    "6 as 12": "empty",
+    "12 as 13": "empty",
+    "13 as 20": "empty"
+  },
+  "250325": {
+    "3 as 5.2": "empty",
+    "5.2 as 5.4": "empty",
+    "5.4 as 7": "empty",
+    "7 as 9.3": "empty",
+    "9.3 as 13.3": "empty",
+    "13.3 as 15.3": "empty",
+    "15.3 as 17.3": "empty",
+    "17.3 as 19": "empty",
+    "19 as 20": "empty"
+  },
+  "260325": {
+    "3 as 5.4": "empty",
+    "5.4 as 7": "empty",
+    "7 as 12.3": "empty",
+    "12.3 as 15.3": "empty",
+    "15.3 as 17": "empty",
+    "17 as 17.3": "empty",
+    "17.3 as 19": "empty",
+    "19 as 20": "empty"
+  },
+  "270325": {}
 }

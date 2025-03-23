@@ -218,7 +218,7 @@ graph_of_all_money = BarChart(
             ChartAxisLabel(
 
                 label= Text(value='jan') ,
-                value= 1 
+                value= 0
 
             ) ,
 
@@ -226,7 +226,7 @@ graph_of_all_money = BarChart(
             ChartAxisLabel(
 
                 label= Text(value='feb') ,
-                value= 2
+                value= 1
 
             ) ,
 
@@ -234,7 +234,7 @@ graph_of_all_money = BarChart(
             ChartAxisLabel(
 
                 label= Text(value=' mar') ,
-                value=3 
+                value=2 
 
             ),
 
@@ -242,7 +242,7 @@ graph_of_all_money = BarChart(
             ChartAxisLabel(
 
                 label= Text(value='apr') ,
-                value=4 
+                value=3 
 
             ),
 
@@ -250,7 +250,7 @@ graph_of_all_money = BarChart(
             ChartAxisLabel(
 
                 label= Text(value='may') ,
-                value=5 
+                value=4 
 
             ),
 
@@ -258,7 +258,7 @@ graph_of_all_money = BarChart(
             ChartAxisLabel(
 
                 label= Text(value='jun') ,
-                value=6 
+                value=5 
 
             ),
 
@@ -266,7 +266,7 @@ graph_of_all_money = BarChart(
             ChartAxisLabel(
 
                 label= Text(value='jul') ,
-                value=7
+                value=6
 
             ),
 
@@ -274,7 +274,7 @@ graph_of_all_money = BarChart(
             ChartAxisLabel(
 
                 label= Text(value='aug') ,
-                value=8 
+                value=7 
 
             ),
 
@@ -282,7 +282,7 @@ graph_of_all_money = BarChart(
             ChartAxisLabel(
 
                 label= Text(value='sep') ,
-                value=9 
+                value=8 
 
             ),
 
@@ -290,20 +290,20 @@ graph_of_all_money = BarChart(
             ChartAxisLabel(
 
                 label= Text(value='oct') ,
-                value=10
+                value=9
 
             ),
             
             ChartAxisLabel(
 
                 label= Text(value='nov') ,
-                value=11
+                value=10
 
             ),
              ChartAxisLabel(
 
                 label= Text(value='dec') ,
-                value = 12
+                value = 11
 
             ),
 
@@ -332,7 +332,7 @@ alert_dialog_drop_down =  Container(
 
 counter_for_todo = Container(
 
-    width=  600 , 
+    width=  1000 , 
     height=  300 , 
     bgcolor= colors.TRANSPARENT , 
     padding= padding.only(left=300)  , 

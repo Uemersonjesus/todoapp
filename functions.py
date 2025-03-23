@@ -369,9 +369,10 @@ def counter_of_money()  :
         )
      
     total =  all_money_get + all_money_loss + all_money_save
-    percent_of_gain =  ( (total * all_money_get) / 100 ) / total
-    percent_of_loss =  ( (total * all_money_loss) / 100 ) / total
-    percent_of_save =  ( (total * all_money_save) / 100 ) / total
+
+    percent_of_gain =  ( (total * all_money_get) / 100 ) / total if total  != 0  else  0 
+    percent_of_loss =  ( (total * all_money_loss) / 100 ) / total if total  != 0  else  0
+    percent_of_save =  ( (total * all_money_save) / 100 ) / total if total  != 0  else  0
 
 
     graph_circle_of_all_money.sections = [
@@ -934,19 +935,19 @@ def every_todo_analysis(e) :
                 container
             )
 
+            
+            #value = dic2[day][todo]
 
-            value = dic2[day][todo]
+            #total +=  1 
 
-            total +=  1 
+            #if value == 'End'  :
 
-            if value == 'End'  :
-
-                total_end+=  1
+             #   total_end+=  1
             
             
-            if value =='open' :
+            #if value =='open' :
 
-                total_open += 1 
+            #    total_open += 1 
 
             
 
@@ -971,7 +972,7 @@ def every_todo_analysis(e) :
         )
     )
     counter_for_todo.content = Column( 
-
+        scroll= 'auto' ,  # type: ignore
         controls= todo_list  
 
     )
@@ -1389,7 +1390,7 @@ def show_todo() :
        
         containers.append(
             Container(
-                width=  400 , 
+                width=  1200 , 
                 height = 100 , 
                 bgcolor = colors.TRANSPARENT , 
 
@@ -1443,7 +1444,7 @@ def show_todo() :
         )
 
     todo_show.content = Column(
-
+        scroll= 'auto' ,  # type: ignore
         controls= containers
 
     )
@@ -1695,11 +1696,11 @@ def  show_main_page(e) :
             save_show,
             Container(
 
-                width= 900  , 
+                width= 12.00  , 
                 height = 500 , 
                 padding= padding.only(left=300) , 
                 bgcolor= colors.TRANSPARENT , 
-                
+            
                 content=   todo_show ,
 
 

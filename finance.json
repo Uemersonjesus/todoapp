@@ -3,5 +3,418 @@
     "gasto": {},
     "ganho": {},
     "investido": {}
+  },
+  "251224": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "010125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "020125": {
+    "gasto": {
+      "nate curso ": 50.0,
+      "internet ": 50.0
+    },
+    "ganho": {
+      "renda passiva ": 600.0
+    },
+    "investido": {}
+  },
+  "030125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "040125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "060125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "070125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "080125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "090125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "110125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "120125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "130125": {
+    "gasto": {
+      "via feira": 60.0,
+      "onibus": 36.0
+    },
+    "ganho": {},
+    "investido": {
+      "nate/investimento": 200.0,
+      "renda fixa ": 4300.0
+    }
+  },
+  "150125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "170125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "180125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "190125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "200125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "210125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "220125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "230125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "240125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "250125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "260125": {
+    "gasto": {
+      "Onibus ": 72.0,
+      "Livro corretor": 250.0
+    },
+    "ganho": {},
+    "investido": {}
+  },
+  "270125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "280125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "290125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "300125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "310125": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "010225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "020225": {
+    "gasto": {
+      "via feira": 10.0,
+      "onibus": 72.0,
+      "cr\u00e9dito ": 20.0
+    },
+    "ganho": {
+      "passivo": 600.0
+    },
+    "investido": {
+      "nate investmentos": 110.0
+    }
+  },
+  "030225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "040225": {
+    "gasto": {
+      "mainha celular": 648.0
+    },
+    "ganho": {},
+    "investido": {
+      "invetimentos": 500.0,
+      "nate investimentos": 100.0
+    }
+  },
+  "060225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "070225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "080225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "090225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "100225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "110225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "120225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "130225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "140225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "150225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "160225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "170225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "180225": {
+    "gasto": {
+      "mainha celular ": 600.0,
+      "roupas": 600.0
+    },
+    "ganho": {},
+    "investido": {}
+  },
+  "190225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "200225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "210225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "220225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "230225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "250225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "260225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "270225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "280225": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "010325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "020325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "030325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "040325": {
+    "gasto": {
+      "aniversarios presentes": 27.0,
+      "site dom\u00ednio": 40.0,
+      "hospendagem do site ": 120.0
+    },
+    "ganho": {},
+    "investido": {}
+  },
+  "050325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "060325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "070325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "080325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "090325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "100325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "110325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "120325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "140325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "150325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "160325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "170325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "180325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "200325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "210325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "220325": {
+    "gasto": {},
+    "ganho": {},
+    "investido": {}
+  },
+  "230325": {
+    "gasto": {
+      "mochila ": 30.0,
+      "cabo uart": 30.0,
+      "buj\u00e3o de g\u00e1s ": 125.0
+    },
+    "ganho": {},
+    "investido": {}
   }
 }
